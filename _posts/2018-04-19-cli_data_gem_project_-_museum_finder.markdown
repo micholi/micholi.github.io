@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "CLI Data Gem Project - Museum Finder"
+title:      "CLI Data Gem Project: Museum Finder"
 date:       2018-04-19 11:01:18 -0400
 permalink:  cli_data_gem_project_-_museum_finder
 ---
