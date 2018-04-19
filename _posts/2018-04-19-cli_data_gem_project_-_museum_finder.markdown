@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Data Gem Project - Museum Finder"
-date:       2018-04-19 15:01:16 +0000
+date:       2018-04-19 11:01:18 -0400
 permalink:  cli_data_gem_project_-_museum_finder
 ---
 
@@ -29,8 +29,8 @@ As for my actual project, here’s how I have it structured.
 * Back to my CLI, the call method invokes the MuseumFinder::Museum.create_museums method to get everything started and then displays a greeting
 * The CLI is also where I’ve built out all the logic behind displaying the main menu, asking for and processing user input, and printing information for each museum the user has selected
 
-![](https://imgur.com/GDkmDd2)
+![](https://i.imgur.com/GDkmDd2.png)
 
-![](https://imgur.com/LIJoo4N)
+![](https://i.imgur.com/LIJoo4N.png)
 
 Overall, this has been a fun project. I went from feeling a bit overwhelmed to frustrated to satisfied with the progress I was making. I look forward to making some final tweaks and seeing what comes next.
