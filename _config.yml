@@ -6,8 +6,10 @@ email: michelleo72@gmail.com
 copyright_name: Michelle Olivieri
 description: > # this means to ignore newlines until "baseurl:"
   My Journey from Advertising to Coding
+
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+url: http://localhost:4000
+twitter_username:
 github_username:  micholi
 
 # Build settings
