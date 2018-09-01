@@ -8,7 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
   My Journey from Advertising to Coding
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://localhost:4000
 twitter_username:
 github_username:  micholi
 
