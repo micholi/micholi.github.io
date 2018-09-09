@@ -54,7 +54,7 @@ function getNewCityId(cityId, op) {
 }
 ```
 
-**Rails API Must Reveal at Least 1 Has-Many Relationship in JSON Rendered to Page **
+**Rails API Must Reveal at Least 1 Has-Many Relationship in JSON Rendered to Page**
 
 I added this to both the City show page and Travelers (aka Users) index page. A City has many Trips and as you scroll through the Cities, you can click on a link that displays all the comments made about it through Trip submissions. A User has many Cities through Trips and on the Travelers page, clicking the link under a User's name will render all Cities they've visited, as well as their favorite attraction. All of this occurs without a page refresh.
 
@@ -71,15 +71,11 @@ These are in place throughout my app for Users, Cities, and Trips. I mostly used
 
 **CLOSING THOUGHTS**
 
-JS is really difficult and complex and quirky. On numerous occasions, I was elated that I'd gotten one thing to work, only to discover that I had accidentally broken something else in the process. For example, it took many attempts to create my new resource and correctly append it to the page. I want to bed feeling pleased with my progress and then this morning, I couldn't log into my app because I'd forgetten to indicate which form I wanted to hijack. I plan to run through my app a few more times to make sure there's nothing weird or unexpected going on. 
+JS is really difficult and complex and quirky. On numerous occasions, I was elated that I'd gotten one thing to work, only to discover that I had accidentally broken something else in the process. For example, it took many attempts to create my new resource and correctly append it to the page. I want to bed feeling pleased with my progress and then this morning, I couldn't log into my app because I'd forgetten to indicate which form I wanted to hijack. I plan to run through my app a few more times to make sure there's nothing weird or unexpected going on.
 
-I still love the Ruby language, but I've also come to appreciate the ways that JS can make your apps more dynamic and contemporary. I have so much left to learn and I look forward to further exploring JS! For now, I'm just grateful to have an app that appears to be working. This project has been incredibly frustrating at times, but I enjoyed adding new features to the previous iteration of my app and I'm happy with how it's turned out so far! 
+I still love the Ruby language, but I've also come to appreciate the ways that JS can make your apps more dynamic and contemporary. I have so much left to learn and I look forward to further exploring JS! For now, I'm just grateful to have an app that appears to be working. This project has been incredibly frustrating at times, but I enjoyed adding new features to the previous iteration of my app and I'm happy with how it's turned out so far!
 
 ![](https://i.imgur.com/d96OMWl.gif)
 
 
 [Feel free to check out my repo on Github ](https://github.com/micholi/rails-travel-app/tree/rails_jquery)
-
-
-
-

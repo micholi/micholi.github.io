@@ -14,7 +14,7 @@ After considering and rejecting several ideas, I ultimately decided on a TV Watc
 
 The first day and a half went pretty smoothly. I spent time thinking through what databases I'd need and what fields they should include as well as which models I'd have to build and how they'd relate to each other. I also created some placeholder erb files so that I could test the RESTful routes I was adding to my controllers just to make sure everything was linking as intended.
 
-Despite my planning, I spent a good part of day 3 working through one roadblock after another. There were several issues, but the biggest one was related to some functionality I planned to include. In addition to the basic Create, Read, Udate, Delete requirements specified in the project, I wanted to enable the following: allow the user to add another user's show to their watchlist and then later remove that show from their watchlist without permanently deleting it. This added an extra layer of complexity and I needed to re-work a few things before I could continue.
+Despite my planning, I spent a good part of day 3 working through one roadblock after another. There were several issues, but the biggest one was related to some functionality I planned to include. In addition to the basic Create, Read, Update, Delete requirements specified in the project, I wanted to enable the following: allow the user to add another user's show to their watchlist and then later remove that show from their watchlist without permanently deleting it. This added an extra layer of complexity and I needed to re-work a few things before I could continue.
 
 **Database Changes**
 
@@ -63,4 +63,3 @@ For example, both of these shows are in Offred's watchlist, but the show detail 
 ![](https://i.imgur.com/nLii1NI.png?1)
 
 Well, that's my project! I need to go through another round of testing to make sure I haven't overlooked anything and then I'll record my video walkthrough. Overall, I've had a lot of fun working on this and learned a ton. Looking forward to finishing up and moving on to Rails in the very near future.
-
