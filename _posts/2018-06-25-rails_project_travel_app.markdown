@@ -6,7 +6,7 @@ permalink:  rails_project_travel_app
 ---
 
 
-I'm close to submitting my Rails project, provided I don't run into any unforeseen issue during my next round of testing. This has been a challenging process for me and I encountered multiple roadblocks to get to this point. I had previously struggled a bit with Sinatra and then once I finally felt comfortable with it, I had to re-learn routes the Rails way. I initially had mixed feelings about Rails and found it confusing, but I now have a greater appreciation for it. It's extremely powerful and I'm sure I'm just scratching the surface of its capabilities.
+I'm close to submitting my Rails project, provided I don't run into any unforeseen issues during my next round of testing. This has been a challenging process for me and I encountered multiple roadblocks to get to this point. I had previously struggled a bit with Sinatra and then once I finally felt comfortable with it, I had to re-learn routes the Rails way. I initially had mixed feelings about Rails and found it confusing, but I now have a greater appreciation for it. It's extremely powerful and I'm sure I'm just scratching the surface of its capabilities.
 
 For my project, I chose to build a travel app that enables users, aka travelers, to add and rate trips. I had considered a travel app for Sinatra before nixing the idea and then decided to revive it for Rails. My app has 4 models: User, City, Country, Trip.
 
